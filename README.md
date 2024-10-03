@@ -52,29 +52,5 @@ Star History
 ------
 [![Star History Chart](https://api.star-history.com/svg?repos=robocup-ssl/grsim&type=Date)](https://star-history.com/#robocup-ssl/grsim&Date)
 
-Citing
-------
 
-If you use this in your research, please cite the original paper:
-```
-@inproceedings{Monajjemi2011grSimR,
-  title={grSim - RoboCup Small Size Robot Soccer Simulator},
-  author={Valiallah Monajjemi and A. Koochakzadeh and S. S. Ghidary},
-  booktitle={RoboCup},
-  year={2011}
-}
-```
-
-If you wish to cite this repo with it's modifications specifically, please cite:
-
-```
-@misc{grsim2021,
-  author = {Mohammad Mahdi Rahimi and Jan Segre and Valiallah Monajjemi and A. Koochakzadeh and Sepehr MohaimenianPour and Nicolai Ommer and  Avatar
-Kazunori Kimura and Jeremy Feltracco and Kenta Sato and Atousa Ahsani},
-  title = {GRSIM},
-  year = {2021},
-  publisher = {GitHub},
-  note = {GitHub repository},
-  howpublished = {\url{https://github.com/RoboCup-SSL/grSim/}}
-}
 ```
