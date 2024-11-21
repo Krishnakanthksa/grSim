@@ -3,9 +3,10 @@
 grSim
 =======================
 
-[RoboCup Small Size League](https://ssl.robocup.org/) Simulator.
+[RoboCup Small Size League](<img width="1440" alt="Screenshot 2024-09-26 at 10 41 58 PM" src="https://github.com/user-attachments/assets/3d150c9f-b567-472b-a316-b8b79a5218c7">
+) Simulator.
 
-![grSim on Ubuntu](docs/img/screenshot01.jpg?raw=true "grSim on Ubuntu")
+grSim on Mac air M1<img width="1440" alt="Screenshot 2024-09-26 at 10 41 58 PM" src="https://github.com/user-attachments/assets/4b6d620b-b2ab-434b-adfd-229c3d13204e">
 
 - [Install instructions](INSTALL.md)
 - [Authors](AUTHORS.md)
@@ -15,14 +16,7 @@ grSim
 System Requirements
 -----------------------
 
-grSim will likely run on a modern dual-core PC with a decent graphics card. A typical configuration is:
-
-- Dual Core CPU (2.0 Ghz+)
-- 1GB of RAM
-- 256MB nVidia or ATI graphics card
-
-Note that it may run on lower-end equipment though good performance is not guaranteed.
-
+grSim will likely run on a modern dual-core PC with a decent graphics card. 
 
 Software Requirements
 ---------------------
@@ -47,10 +41,5 @@ Receiving data from the grSim is similar to receiving data from the [SSL-Vision]
 Sending data to the simulator is also possible using Google Protobuf. Sample clients are included in [clients](./clients) folder. There are two clients available, *qt-based* and *Java-based*. The native client is compiled during the grSim compilation. To compile the Java client, please consult the corresponding `README` file.
 
 Qt [example project](https://github.com/robocin/ssl-client) to receive and send data to the simulator.
-
-Star History
-------
-[![Star History Chart](https://api.star-history.com/svg?repos=robocup-ssl/grsim&type=Date)](https://star-history.com/#robocup-ssl/grsim&Date)
-
 
 ```
